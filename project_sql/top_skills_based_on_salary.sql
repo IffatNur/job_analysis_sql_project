@@ -1,5 +1,4 @@
--- 4) what are the top skills based on salary for my role
-
+-- 4) what are the top skills based on salary for data analyst role
 WITH skills_type as(
     SELECT 
         skill_id,
