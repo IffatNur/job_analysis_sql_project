@@ -1,4 +1,4 @@
--- 1) what are the top paying job for my role
+-- 1) what are the top paying job for data analyst role
 
 SELECT 
     job_postings_fact.job_id,
