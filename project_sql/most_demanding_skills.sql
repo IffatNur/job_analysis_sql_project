@@ -1,4 +1,4 @@
--- 3) what are the most in demand skills for my role
+-- 3) what are the most in demand skills for data analyst role
 
 WITH skills_type as(
     SELECT 
